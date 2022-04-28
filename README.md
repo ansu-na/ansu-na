@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<!--[출처] https://github.com/anuraghazra/github-readme-stats -->
+[![ㄴtats](https://github-readme-stats.vercel.app/api?username=ansu-na&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--[출처] 깃허브Github - (3) - 프로필 페이지 꾸미기, stats and most used languages|작성자 길상 -->
 ﻿[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ansu-na&langs_count=10&layout=compact&theme=dark)](https://github.com/ansu-na/ansu-na)
 
